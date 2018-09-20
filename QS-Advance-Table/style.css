@@ -1,0 +1,36 @@
+.qv-object-QS-Advance-Table div.qv-object-content-container {
+	overflow: auto;
+}
+
+
+.qv-object-QS-Advance-Table td {
+    vertical-align: middle;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: QS-Advance-Tableault;
+}
+
+.qv-object-QS-Advance-Table th {
+	border-top: 1px solid #77797f;
+	border-bottom: 1px solid #77797f;
+	border-right: 1px solid #77797f;
+	border-left: 1px solid #77797f;
+
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: QS-Advance-Tableault;
+}
+.qv-object-QS-Advance-Table td.numeric {
+	
+}
+.qv-object-QS-Advance-Table button {
+	width: 100%;
+}
+
+
+
+
